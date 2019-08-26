@@ -10,7 +10,7 @@ title: Weekly Progress Demos
 
 # Expectations for Weekly Demos
 
-Here is what the instructor[s] would like to see from you for the weekly (Monday) demos.
+Here is what the instructor[s] would like to see from you for the weekly demos/updates.
 
 
 ## Journal entries (individual)
