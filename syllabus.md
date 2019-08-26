@@ -6,7 +6,7 @@ title: Syllabus
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS 481: Senior Software Project I
+## CS481: Senior Software Project I
 
 ## Fall 2019
 

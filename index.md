@@ -12,7 +12,7 @@ title: Senior Software Project I
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-This is the website for CS 481 (Senior Software Project I), Fall 2019 at at [York College of Pennsylvania](http://www.ycp.edu).  All information related to the course will be posted here.
+This is the website for CS481 (Senior Software Project I), Fall 2019 at at [York College of Pennsylvania](http://www.ycp.edu).  All information related to the course will be posted here.
 
 ## Links
 

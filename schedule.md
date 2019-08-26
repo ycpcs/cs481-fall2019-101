@@ -4,7 +4,7 @@ course_number: CS481
 title: Schedule
 ---
 
-This is the course schedule for CS 481.
+This is the course schedule for CS481.
 
 **Assigned On** | **Assignment** | **Due**
 :---------------|:---------------|:---------
