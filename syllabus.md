@@ -39,7 +39,7 @@ or by appointment
 **Phone:** (717) 815-1276<br>
 **Office Hours:** <br>&nbsp;&nbsp;&nbsp;&nbsp;
 Tu Th: 11:00 AM - 12:30 PM<br>&nbsp;&nbsp;&nbsp;&nbsp;
-W F: 12:00 PM - 1:00 PM;
+M F: 12:00 PM - 1:00 PM;
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
